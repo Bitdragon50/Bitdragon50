@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bitdragon50
 - 👀 I’m interested in robotics, AI, Machine Learning and cloud computing.
-- 🌱 I’m currently learning Python, AWS and ML
+- 🌱 I’m currently learning Python, Rust and Go
 - 💞️ I’m looking to collaborate on ML, Robotics and AI projects
 - 📫 You can send me a message on my instagram account @all.hail.alan
 
